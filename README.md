@@ -1,2 +1,2 @@
 # CodingGame
-my solutions to CodinGame puzzles
+my solutions to CodinGame's puzzles
